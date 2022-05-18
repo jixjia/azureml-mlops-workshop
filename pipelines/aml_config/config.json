@@ -1,0 +1,15 @@
+{
+    "EXPERIMENT_NAME" : "exp-cht-workshop",
+    "DATASTORE_NAME": "cht_workshop",
+    "DATASET_TRAIN": "cht_workshop_train",
+    "DATASET_TEST": "cht_workshop_test",
+    "COMPUTE_CLUSTER_NAME" : "prod-ds4v2-x4",
+    "MODEL_NAME": "snn",
+    "MODEL_PATH": "outputs/snn",
+    "MODEL_DESCRIPTION": "A custom Siamese Network trained on Pockemon dataset",
+    "ENV_NAME": "tf2.4-opencv4.5",
+    "TRAIN_FOLDER": "train",
+    "TEST_FOLDER": "test",
+    "DEPLOY_FOLDER": "deploy",
+    "SOURCE_DIRECTORY": "code"
+}

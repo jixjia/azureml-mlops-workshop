@@ -1,0 +1,6 @@
+{
+    "subscription_id": "<DO_NOT_CHANGE>",
+    "resource_group": "rg-azureml",
+    "workspace_name": "ws-jixjia-azureml",
+    "location": "japaneast"
+}

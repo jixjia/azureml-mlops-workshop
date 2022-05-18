@@ -1,0 +1,427 @@
+{
+    "source": 2,
+    "revision": 8,
+    "description": null,
+    "createdBy": {
+        "displayName": "Jixin Jia",
+        "url": "https://spsprodwus21.vssps.visualstudio.com/A39e04bed-39d0-44ce-bdda-dfaab6019153/_apis/Identities/d1f2b663-d9da-6f0b-8003-30c36169434b",
+        "_links": {
+            "avatar": {
+                "href": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+            }
+        },
+        "id": "d1f2b663-d9da-6f0b-8003-30c36169434b",
+        "uniqueName": "jixinjia@microsoft.com",
+        "imageUrl": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi",
+        "descriptor": "aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+    },
+    "createdOn": "2022-05-18T10:09:32.723Z",
+    "modifiedBy": {
+        "displayName": "Jixin Jia",
+        "url": "https://spsprodwus21.vssps.visualstudio.com/A39e04bed-39d0-44ce-bdda-dfaab6019153/_apis/Identities/d1f2b663-d9da-6f0b-8003-30c36169434b",
+        "_links": {
+            "avatar": {
+                "href": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+            }
+        },
+        "id": "d1f2b663-d9da-6f0b-8003-30c36169434b",
+        "uniqueName": "jixinjia@microsoft.com",
+        "imageUrl": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi",
+        "descriptor": "aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+    },
+    "modifiedOn": "2022-05-18T11:00:30.037Z",
+    "isDeleted": false,
+    "lastRelease": {
+        "id": 3,
+        "name": "Release-3",
+        "artifacts": [],
+        "_links": {},
+        "description": "",
+        "releaseDefinition": {
+            "id": 1,
+            "projectReference": null,
+            "_links": {}
+        },
+        "createdOn": "2022-05-18T11:00:40.683Z",
+        "createdBy": {
+            "displayName": "Jixin Jia",
+            "url": "https://spsprodwus21.vssps.visualstudio.com/A39e04bed-39d0-44ce-bdda-dfaab6019153/_apis/Identities/d1f2b663-d9da-6f0b-8003-30c36169434b",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+                }
+            },
+            "id": "d1f2b663-d9da-6f0b-8003-30c36169434b",
+            "uniqueName": "jixinjia@microsoft.com",
+            "imageUrl": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi",
+            "descriptor": "aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+        }
+    },
+    "variables": {},
+    "variableGroups": [
+        4
+    ],
+    "environments": [
+        {
+            "id": 1,
+            "name": "UAT",
+            "rank": 1,
+            "owner": {
+                "displayName": "Jixin Jia",
+                "url": "https://spsprodwus21.vssps.visualstudio.com/A39e04bed-39d0-44ce-bdda-dfaab6019153/_apis/Identities/d1f2b663-d9da-6f0b-8003-30c36169434b",
+                "_links": {
+                    "avatar": {
+                        "href": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+                    }
+                },
+                "id": "d1f2b663-d9da-6f0b-8003-30c36169434b",
+                "uniqueName": "jixinjia@microsoft.com",
+                "imageUrl": "https://dev.azure.com/jixinjia/_apis/GraphProfile/MemberAvatars/aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi",
+                "descriptor": "aad.ZDFmMmI2NjMtZDlkYS03ZjBiLTgwMDMtMzBjMzYxNjk0MzRi"
+            },
+            "variables": {},
+            "variableGroups": [],
+            "preDeployApprovals": {
+                "approvals": [
+                    {
+                        "rank": 1,
+                        "isAutomated": true,
+                        "isNotificationOn": false,
+                        "id": 1
+                    }
+                ],
+                "approvalOptions": {
+                    "requiredApproverCount": null,
+                    "releaseCreatorCanBeApprover": false,
+                    "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+                    "enforceIdentityRevalidation": false,
+                    "timeoutInMinutes": 0,
+                    "executionOrder": 1
+                }
+            },
+            "deployStep": {
+                "id": 2
+            },
+            "postDeployApprovals": {
+                "approvals": [
+                    {
+                        "rank": 1,
+                        "isAutomated": true,
+                        "isNotificationOn": false,
+                        "id": 3
+                    }
+                ],
+                "approvalOptions": {
+                    "requiredApproverCount": null,
+                    "releaseCreatorCanBeApprover": false,
+                    "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+                    "enforceIdentityRevalidation": false,
+                    "timeoutInMinutes": 0,
+                    "executionOrder": 2
+                }
+            },
+            "deployPhases": [
+                {
+                    "deploymentInput": {
+                        "parallelExecution": {
+                            "parallelExecutionType": 0
+                        },
+                        "agentSpecification": null,
+                        "skipArtifactsDownload": false,
+                        "artifactsDownloadInput": {
+                            "downloadInputs": []
+                        },
+                        "queueId": 58,
+                        "demands": [],
+                        "enableAccessToken": false,
+                        "timeoutInMinutes": 0,
+                        "jobCancelTimeoutInMinutes": 1,
+                        "condition": "succeeded()",
+                        "overrideInputs": {}
+                    },
+                    "rank": 1,
+                    "phaseType": 1,
+                    "name": "Agent job",
+                    "refName": null,
+                    "workflowTasks": [
+                        {
+                            "environment": {},
+                            "taskId": "33c63b11-352b-45a2-ba1b-54cb568a29ca",
+                            "version": "0.*",
+                            "name": "Use Python 3.8",
+                            "refName": "",
+                            "enabled": true,
+                            "alwaysRun": false,
+                            "continueOnError": false,
+                            "timeoutInMinutes": 0,
+                            "retryCountOnTaskFailure": 0,
+                            "definitionType": "task",
+                            "overrideInputs": {},
+                            "condition": "succeeded()",
+                            "inputs": {
+                                "versionSpec": "3.8",
+                                "addToPath": "true",
+                                "architecture": "x64"
+                            }
+                        },
+                        {
+                            "environment": {},
+                            "taskId": "6c731c3c-3c68-459a-a5c9-bde6e6595b5b",
+                            "version": "3.*",
+                            "name": "Install Dependencies",
+                            "refName": "",
+                            "enabled": true,
+                            "alwaysRun": false,
+                            "continueOnError": false,
+                            "timeoutInMinutes": 0,
+                            "retryCountOnTaskFailure": 0,
+                            "definitionType": "task",
+                            "overrideInputs": {},
+                            "condition": "succeeded()",
+                            "inputs": {
+                                "targetType": "filePath",
+                                "filePath": "$(System.DefaultWorkingDirectory)/_cht-mlops-workshop/cht-mlops-artifacts/environment_setup/install_requirements.sh",
+                                "arguments": "",
+                                "script": "# Write your commands here\n\necho 'Hello world'\n",
+                                "workingDirectory": "$(System.DefaultWorkingDirectory)/_cht-mlops-workshop/cht-mlops-artifacts/environment_setup",
+                                "failOnStderr": "false",
+                                "bashEnvValue": ""
+                            }
+                        },
+                        {
+                            "environment": {},
+                            "taskId": "d9bafed4-0b18-4f58-968d-86655b4d2ce9",
+                            "version": "2.*",
+                            "name": "Login to Azure",
+                            "refName": "",
+                            "enabled": true,
+                            "alwaysRun": false,
+                            "continueOnError": false,
+                            "timeoutInMinutes": 0,
+                            "retryCountOnTaskFailure": 0,
+                            "definitionType": "task",
+                            "overrideInputs": {},
+                            "condition": "succeeded()",
+                            "inputs": {
+                                "script": "az login --service-principal -u $(spidentity) -p $(spsecret) --tenant $(sptenant)",
+                                "workingDirectory": "",
+                                "failOnStderr": "false"
+                            }
+                        },
+                        {
+                            "environment": {},
+                            "taskId": "d9bafed4-0b18-4f58-968d-86655b4d2ce9",
+                            "version": "2.*",
+                            "name": "Deploy to ACI",
+                            "refName": "",
+                            "enabled": true,
+                            "alwaysRun": false,
+                            "continueOnError": false,
+                            "timeoutInMinutes": 0,
+                            "retryCountOnTaskFailure": 0,
+                            "definitionType": "task",
+                            "overrideInputs": {},
+                            "condition": "succeeded()",
+                            "inputs": {
+                                "script": "python aml_service/09-DeployToACI.py",
+                                "workingDirectory": "$(System.DefaultWorkingDirectory)/_cht-mlops-workshop/cht-mlops-artifacts",
+                                "failOnStderr": "false"
+                            }
+                        },
+                        {
+                            "environment": {},
+                            "taskId": "d9bafed4-0b18-4f58-968d-86655b4d2ce9",
+                            "version": "2.*",
+                            "name": "Test the webservice",
+                            "refName": "",
+                            "enabled": true,
+                            "alwaysRun": false,
+                            "continueOnError": false,
+                            "timeoutInMinutes": 0,
+                            "retryCountOnTaskFailure": 0,
+                            "definitionType": "task",
+                            "overrideInputs": {},
+                            "condition": "succeeded()",
+                            "inputs": {
+                                "script": "python aml_service/10-TestWebservice.py",
+                                "workingDirectory": "$(System.DefaultWorkingDirectory)/_cht-mlops-workshop/cht-mlops-artifacts",
+                                "failOnStderr": "false"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "environmentOptions": {
+                "emailNotificationType": "OnlyOnFailure",
+                "emailRecipients": "release.environment.owner;release.creator",
+                "skipArtifactsDownload": false,
+                "timeoutInMinutes": 0,
+                "enableAccessToken": false,
+                "publishDeploymentStatus": true,
+                "badgeEnabled": false,
+                "autoLinkWorkItems": false,
+                "pullRequestDeploymentEnabled": false
+            },
+            "demands": [],
+            "conditions": [
+                {
+                    "name": "ReleaseStarted",
+                    "conditionType": 1,
+                    "value": ""
+                }
+            ],
+            "executionPolicy": {
+                "concurrencyCount": 1,
+                "queueDepthCount": 0
+            },
+            "schedules": [],
+            "currentRelease": {
+                "id": 3,
+                "url": "https://vsrm.dev.azure.com/jixinjia/cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944/_apis/Release/releases/3",
+                "_links": {}
+            },
+            "retentionPolicy": {
+                "daysToKeep": 30,
+                "releasesToKeep": 3,
+                "retainBuild": true
+            },
+            "processParameters": {},
+            "properties": {
+                "BoardsEnvironmentType": {
+                    "$type": "System.String",
+                    "$value": "unmapped"
+                },
+                "LinkBoardsWorkItems": {
+                    "$type": "System.String",
+                    "$value": "False"
+                }
+            },
+            "preDeploymentGates": {
+                "id": 0,
+                "gatesOptions": null,
+                "gates": []
+            },
+            "postDeploymentGates": {
+                "id": 0,
+                "gatesOptions": null,
+                "gates": []
+            },
+            "environmentTriggers": [],
+            "badgeUrl": "https://vsrm.dev.azure.com/jixinjia/_apis/public/Release/badge/cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944/1/1"
+        }
+    ],
+    "artifacts": [
+        {
+            "sourceId": "cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944:23",
+            "type": "Build",
+            "alias": "_cht-mlops-workshop",
+            "definitionReference": {
+                "artifactSourceDefinitionUrl": {
+                    "id": "https://dev.azure.com/jixinjia/_permalink/_build/index?collectionId=e28a216b-afb2-40d8-8771-245addbf8298&projectId=cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944&definitionId=23",
+                    "name": ""
+                },
+                "defaultVersionBranch": {
+                    "id": "",
+                    "name": ""
+                },
+                "defaultVersionSpecific": {
+                    "id": "",
+                    "name": ""
+                },
+                "defaultVersionTags": {
+                    "id": "",
+                    "name": ""
+                },
+                "defaultVersionType": {
+                    "id": "latestType",
+                    "name": "Latest"
+                },
+                "definition": {
+                    "id": "23",
+                    "name": "cht-mlops-workshop"
+                },
+                "definitions": {
+                    "id": "",
+                    "name": ""
+                },
+                "IsMultiDefinitionType": {
+                    "id": "False",
+                    "name": "False"
+                },
+                "project": {
+                    "id": "cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944",
+                    "name": "cht-mlops-workshop"
+                },
+                "repository": {
+                    "id": "",
+                    "name": ""
+                }
+            },
+            "isPrimary": true,
+            "isRetained": false
+        }
+    ],
+    "triggers": [
+        {
+            "artifactAlias": "_cht-mlops-workshop",
+            "triggerConditions": [],
+            "triggerType": 1
+        },
+        {
+            "artifactAlias": "_cht-mlops-workshop",
+            "triggerConditions": [
+                {
+                    "targetBranch": "master",
+                    "tags": []
+                }
+            ],
+            "pullRequestConfiguration": {
+                "useArtifactReference": false,
+                "codeRepositoryReference": {
+                    "systemType": 1,
+                    "repositoryReference": {
+                        "pullRequestRepositoryId": {
+                            "value": "c36243c5-d487-41d4-8fc2-a958e9efe249",
+                            "displayValue": "cht-mlops-workshop"
+                        },
+                        "pullRequestProjectId": {
+                            "value": "cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944",
+                            "displayValue": "cht-mlops-workshop"
+                        }
+                    }
+                }
+            },
+            "statusPolicyName": "",
+            "triggerType": 6
+        }
+    ],
+    "releaseNameFormat": "Release-$(rev:r)",
+    "tags": [],
+    "properties": {
+        "DefinitionCreationSource": {
+            "$type": "System.String",
+            "$value": "ReleaseNew"
+        },
+        "IntegrateBoardsWorkItems": {
+            "$type": "System.String",
+            "$value": "False"
+        },
+        "IntegrateJiraWorkItems": {
+            "$type": "System.String",
+            "$value": "false"
+        }
+    },
+    "id": 1,
+    "name": "Release to UAT",
+    "path": "\\",
+    "projectReference": null,
+    "url": "https://vsrm.dev.azure.com/jixinjia/cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944/_apis/Release/definitions/1",
+    "_links": {
+        "self": {
+            "href": "https://vsrm.dev.azure.com/jixinjia/cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944/_apis/Release/definitions/1"
+        },
+        "web": {
+            "href": "https://dev.azure.com/jixinjia/cee2cafe-c2fc-4b88-b1dc-38d2b3ba7944/_release?definitionId=1"
+        }
+    }
+}
